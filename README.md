@@ -1,4 +1,4 @@
-# Wireless Hybrid Federated Learning for Task-Oriented Semantic Communication Systems
+# A Hybrid Federated Learning Framework for Task-Oriented Semantic Communication
 
 Note: The supplementary material is used for the following paper:
 
